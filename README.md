@@ -1,4 +1,4 @@
-# Simple Python Login System
+# Simple Python Based Login System
 
 This is a basic command-line program where users can sign up and log in. I made this to practice Python, saving data to files (CSV), and checking user input.
 
