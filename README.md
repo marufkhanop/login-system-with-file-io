@@ -15,5 +15,3 @@ This is a basic command-line program where users can sign up and log in. I made 
 3. Run this command:
    
    python3 main.py
-
-
